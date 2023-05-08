@@ -39,7 +39,7 @@ This project seeks to apply the Traveling Salesman Problem, or TSP, to the beaut
 3. Select python file with desired algorithm 
    Different files use different algorithms so be sure to select the desired one depending on the statements above
    
-# Example of Results
+# Visualization Example
 ![image](https://user-images.githubusercontent.com/123010106/236727841-ac6dccfb-47cc-4baa-80d0-4f62f879c357.png)
 This is the initial image with marked attractions.
 
