@@ -1,3 +1,7 @@
+# Why?
+
+This project seeks to apply the Traveling Salesman Problem, or tsp, to the beautiful world of Disney. Magic Kingdom is a popular tourist location and, as such, it can be daunting trying to optimize time at this magical world so as to get the most out of a trip. During this project, we seek to create an algorithm capable of finding the shortest possible path through Magic Kingdom. This project did not account for every location in Magic Kingdom, but rather the most popular and significant attractions. 
+
 # File Explanations
 
 
@@ -34,3 +38,5 @@
   
 3. Select python file with desired algorithm 
    Different files use different algorithms so be sure to select the desired one depending on the statements above
+   
+
