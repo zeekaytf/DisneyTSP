@@ -39,8 +39,10 @@ This project seeks to apply the Traveling Salesman Problem, or TSP, to the beaut
 3. Select file with desired algorithm and run. 
 
    
-# Visualization Example
+# What will this look like?
 ![image](https://user-images.githubusercontent.com/123010106/236727841-ac6dccfb-47cc-4baa-80d0-4f62f879c357.png)
 This is the initial image with marked attractions.
+
+After running any of the implementation files, a graphic will appear with black lines tracing out the calculated path.
 
 
