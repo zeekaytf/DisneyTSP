@@ -31,13 +31,13 @@ This project seeks to apply the Traveling Salesman Problem, or TSP, to the beaut
 
   !! The programs only function properly with the original data!! This includes the picture files and data files as well as the database.
   
-2. Download dependencies
-  numpy is essential for creating distance arrays to operate on
-  matplotlib is necessary for visualization
+2. Download dependencies:
+  numpy is essential for creating distance arrays to operate on.
+  matplotlib is necessary for visualization.
   Packages like json, os, and others are necessary for some but not all the files to run.
   
-3. Select python file with desired algorithm 
-   Different files use different algorithms so be sure to select the desired one depending on the statements above
+3. Select file with desired algorithm and run. 
+
    
 # Visualization Example
 ![image](https://user-images.githubusercontent.com/123010106/236727841-ac6dccfb-47cc-4baa-80d0-4f62f879c357.png)
